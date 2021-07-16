@@ -1,0 +1,1231 @@
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:11
+               Value
+Day Temp C      12.9
+Night Temp C    10.8
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:11
+               Value
+Day Temp C      12.9
+Night Temp C    10.8
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:11
+               Value
+Day Temp C      12.9
+Night Temp C    10.8
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:15
+               Value
+Day Temp C      12.9
+Night Temp C    10.8
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:15
+               Value
+Day Temp C      12.9
+Night Temp C    10.8
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:15
+               Value
+Day Temp C      12.9
+Night Temp C    10.8
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:35
+               Value
+Day Temp C      13.3
+Night Temp C    11.0
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:35
+               Value
+Day Temp C      13.3
+Night Temp C    11.0
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:35
+               Value
+Day Temp C      13.3
+Night Temp C    11.0
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:35
+               Value
+Day Temp C      13.3
+Night Temp C    11.0
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:35
+               Value
+Day Temp C      13.3
+Night Temp C    11.0
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:35
+               Value
+Day Temp C      13.3
+Night Temp C    11.0
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:35
+               Value
+Day Temp C      13.3
+Night Temp C    11.0
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:55
+               Value
+Day Temp C      13.6
+Night Temp C    10.6
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:55
+               Value
+Day Temp C      13.6
+Night Temp C    10.6
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:55
+               Value
+Day Temp C      13.6
+Night Temp C    10.6
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:58
+               Value
+Day Temp C      13.6
+Night Temp C    10.6
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:58
+               Value
+Day Temp C      13.6
+Night Temp C    10.6
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:58
+               Value
+Day Temp C      13.6
+Night Temp C    10.6
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 18:58
+               Value
+Day Temp C      13.6
+Night Temp C    10.6
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 19:03
+               Value
+Day Temp C      13.6
+Night Temp C    10.6
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 19:04
+               Value
+Day Temp C      13.6
+Night Temp C    10.6
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 19:05
+               Value
+Day Temp C      13.6
+Night Temp C    10.6
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 19:05
+               Value
+Day Temp C      13.6
+Night Temp C    10.6
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 19:07
+               Value
+Day Temp C      13.6
+Night Temp C    10.4
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 19:07
+               Value
+Day Temp C      13.6
+Night Temp C    10.4
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 19:08
+               Value
+Day Temp C      13.6
+Night Temp C    10.4
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 19:08
+               Value
+Day Temp C      13.6
+Night Temp C    10.4
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 19:09
+               Value
+Day Temp C      13.6
+Night Temp C    10.4
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 19:09
+               Value
+Day Temp C      13.6
+Night Temp C    10.4
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 12/7/2021 -- Time is 22:02
+               Value
+Day Temp C      12.1
+Night Temp C     9.7
+Now Temp C       8.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 10:17
+               Value
+Day Temp C      13.7
+Night Temp C     8.1
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 11:26
+               Value
+Day Temp C      14.9
+Night Temp C     6.7
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 11:26
+               Value
+Day Temp C      14.9
+Night Temp C     6.7
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 11:27
+               Value
+Day Temp C      14.9
+Night Temp C     6.7
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 11:27
+               Value
+Day Temp C      14.9
+Night Temp C     6.7
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 11:28
+               Value
+Day Temp C      14.9
+Night Temp C     6.7
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 11:33
+               Value
+Day Temp C      14.9
+Night Temp C     6.7
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 11:33
+               Value
+Day Temp C      14.9
+Night Temp C     6.7
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 11:36
+               Value
+Day Temp C      14.8
+Night Temp C     6.9
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 11:38
+               Value
+Day Temp C      14.8
+Night Temp C     6.9
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 11:38
+               Value
+Day Temp C      14.8
+Night Temp C     6.9
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 11:40
+               Value
+Day Temp C      14.8
+Night Temp C     6.9
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:00
+               Value
+Day Temp C      14.9
+Night Temp C     7.7
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:01
+               Value
+Day Temp C      14.9
+Night Temp C     7.7
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:02
+               Value
+Day Temp C      14.9
+Night Temp C     7.7
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:02
+               Value
+Day Temp C      14.9
+Night Temp C     7.7
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:02
+               Value
+Day Temp C      14.9
+Night Temp C     7.7
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:03
+               Value
+Day Temp C      14.9
+Night Temp C     7.7
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:07
+               Value
+Day Temp C      14.7
+Night Temp C     7.3
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:07
+               Value
+Day Temp C      14.7
+Night Temp C     7.3
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:09:52.501144
+                          0
+Day Temp C             17.0
+Night Temp C           12.0
+Now Temp C             14.7
+Feels Like C           12.6
+Humidity %             61.0
+Wind Dir              NNE 7
+Wind Spd km/hr            7
+Wind Gst km/hr           11
+Pressure               3hPa
+Fire Danger             3.0
+Rain Since 9am mm       0.0
+Dew Point C             7.3
+Sunrise            06:59 ES
+Sunset             17:03 ES
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:15:22.873856
+              Value
+Day Temp C     17.0
+Night Temp C   12.0
+Now Temp C     14.6
+Feels Like C   12.6
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:16:54.902678
+              Value
+Day Temp C     17.0
+Night Temp C   12.0
+Now Temp C     14.6
+Feels Like C   12.6
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:18:03.881812
+              Value
+Day Temp C     17.0
+Night Temp C   12.0
+Now Temp C     14.6
+Feels Like C   12.6
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:18:32.321188
+                 0
+Day Temp C    17.0
+Night Temp C  12.0
+Now Temp C    14.6
+Feels Like C  12.6
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:19
+               Value
+Day Temp C      14.6
+Night Temp C     7.6
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:19
+               Value
+Day Temp C      14.6
+Night Temp C     7.6
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:20
+               Value
+Day Temp C      14.6
+Night Temp C     7.6
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:24:05.526429
+                          0
+Day Temp C             17.0
+Night Temp C           12.0
+Now Temp C             14.6
+Feels Like C           12.6
+Humidity %             63.0
+Wind Dir               NE 7
+Wind Spd km/hr            7
+Wind Gst km/hr           11
+Pressure               2hPa
+Fire Danger             2.8
+Rain Since 9am mm       0.0
+Dew Point C             7.6
+Sunrise            06:59 ES
+Sunset             17:03 ES
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:25:50.459810
+                          0
+Day Temp C             17.0
+Night Temp C           12.0
+Now Temp C             14.5
+Feels Like C           12.5
+Humidity %             64.0
+Wind Dir                N 7
+Wind Spd km/hr            7
+Wind Gst km/hr           11
+Pressure               3hPa
+Fire Danger             2.7
+Rain Since 9am mm       0.0
+Dew Point C             7.8
+Sunrise            06:59 ES
+Sunset             17:03 ES
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:26:37.023656
+                          0
+Day Temp C             17.0
+Night Temp C           12.0
+Now Temp C             14.5
+Feels Like C           12.5
+Humidity %             64.0
+Wind Dir                N 7
+Wind Spd km/hr            7
+Wind Gst km/hr           11
+Pressure               3hPa
+Fire Danger             2.7
+Rain Since 9am mm       0.0
+Dew Point C             7.8
+Sunrise            06:59 ES
+Sunset             17:03 ES
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:28:12.998976
+                          0
+Day Temp C             17.0
+Night Temp C           12.0
+Now Temp C             14.5
+Feels Like C           12.5
+Humidity %             64.0
+Wind Dir                N 7
+Wind Spd km/hr            7
+Wind Gst km/hr           11
+Pressure               3hPa
+Fire Danger             2.7
+Rain Since 9am mm       0.0
+Dew Point C             7.8
+Sunrise            06:59 ES
+Sunset             17:03 ES
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:28:20.420653
+                          0
+Day Temp C             17.0
+Night Temp C           12.0
+Now Temp C             14.5
+Feels Like C           12.5
+Humidity %             64.0
+Wind Dir                N 7
+Wind Spd km/hr            7
+Wind Gst km/hr           11
+Pressure               3hPa
+Fire Danger             2.7
+Rain Since 9am mm       0.0
+Dew Point C             7.8
+Sunrise            06:59 ES
+Sunset             17:03 ES
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:28:23.019527
+                          0
+Day Temp C             17.0
+Night Temp C           12.0
+Now Temp C             14.5
+Feels Like C           12.5
+Humidity %             64.0
+Wind Dir                N 7
+Wind Spd km/hr            7
+Wind Gst km/hr           11
+Pressure               3hPa
+Fire Danger             2.7
+Rain Since 9am mm       0.0
+Dew Point C             7.8
+Sunrise            06:59 ES
+Sunset             17:03 ES
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:28:27.527059
+                          0
+Day Temp C             17.0
+Night Temp C           12.0
+Now Temp C             14.5
+Feels Like C           12.5
+Humidity %             64.0
+Wind Dir                N 7
+Wind Spd km/hr            7
+Wind Gst km/hr           11
+Pressure               3hPa
+Fire Danger             2.7
+Rain Since 9am mm       0.0
+Dew Point C             7.8
+Sunrise            06:59 ES
+Sunset             17:03 ES
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:28:34.357458
+                          0
+Day Temp C             17.0
+Night Temp C           12.0
+Now Temp C             14.5
+Feels Like C           12.5
+Humidity %             64.0
+Wind Dir                N 7
+Wind Spd km/hr            7
+Wind Gst km/hr           11
+Pressure               3hPa
+Fire Danger             2.7
+Rain Since 9am mm       0.0
+Dew Point C             7.8
+Sunrise            06:59 ES
+Sunset             17:03 ES
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:29:50.695529
+                          0
+Day Temp C             17.0
+Night Temp C           12.0
+Now Temp C             14.5
+Feels Like C           12.5
+Humidity %             64.0
+Wind Dir                N 7
+Wind Spd km/hr            7
+Wind Gst km/hr           11
+Pressure               3hPa
+Fire Danger             2.7
+Rain Since 9am mm       0.0
+Dew Point C             7.8
+Sunrise            06:59 ES
+Sunset             17:03 ES
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:30:18.653206
+                          0
+Day Temp C             17.0
+Night Temp C           12.0
+Now Temp C             14.5
+Feels Like C           12.5
+Humidity %             64.0
+Wind Dir                N 7
+Wind Spd km/hr            7
+Wind Gst km/hr           11
+Pressure               3hPa
+Fire Danger             2.7
+Rain Since 9am mm       0.0
+Dew Point C             7.8
+Sunrise            06:59 ES
+Sunset             17:03 ES
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:30:42.005553
+                          0
+Day Temp C             17.0
+Night Temp C           12.0
+Now Temp C             14.5
+Feels Like C           12.5
+Humidity %             64.0
+Wind Dir                N 7
+Wind Spd km/hr            7
+Wind Gst km/hr           11
+Pressure               3hPa
+Fire Danger             2.7
+Rain Since 9am mm       0.0
+Dew Point C             7.8
+Sunrise            06:59 ES
+Sunset             17:03 ES
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:31:05.624030
+                          0
+Day Temp C             17.0
+Night Temp C           12.0
+Now Temp C             14.5
+Feels Like C           12.5
+Humidity %             64.0
+Wind Dir                N 7
+Wind Spd km/hr            7
+Wind Gst km/hr           11
+Pressure               3hPa
+Fire Danger             2.7
+Rain Since 9am mm       0.0
+Dew Point C             7.8
+Sunrise            06:59 ES
+Sunset             17:03 ES
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:31:14.868379
+                          0
+Day Temp C             17.0
+Night Temp C           12.0
+Now Temp C             14.5
+Feels Like C           12.5
+Humidity %             64.0
+Wind Dir                N 7
+Wind Spd km/hr            7
+Wind Gst km/hr           11
+Pressure               3hPa
+Fire Danger             2.7
+Rain Since 9am mm       0.0
+Dew Point C             7.8
+Sunrise            06:59 ES
+Sunset             17:03 ES
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:31:27.819822
+                          0
+Day Temp C             17.0
+Night Temp C           12.0
+Now Temp C             14.5
+Feels Like C           12.5
+Humidity %             64.0
+Wind Dir                N 7
+Wind Spd km/hr            7
+Wind Gst km/hr           11
+Pressure               3hPa
+Fire Danger             2.7
+Rain Since 9am mm       0.0
+Dew Point C             7.8
+Sunrise            06:59 ES
+Sunset             17:03 ES
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:32:49.120684
+                 0
+Day Temp C    17.0
+Night Temp C  12.0
+Now Temp C    14.5
+Feels Like C  12.5
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:33:28.093918
+                 0
+Day Temp C    17.0
+Night Temp C  12.0
+Now Temp C    14.5
+Feels Like C  12.5
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:34:25.169695
+                 0
+Day Temp C    17.0
+Night Temp C  12.0
+Now Temp C    14.5
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:38:36.270160
+                 0
+Night Temp C  12.0
+Now Temp C    14.4
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time Stamp is 12:39:10.020649
+                 0
+Day Temp C    17.0
+Night Temp C  12.0
+Now Temp C    14.4
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:45
+                   0
+Day Temp C      14.4
+Night Temp C     7.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:46
+                   0
+Day Temp C      14.4
+Night Temp C     7.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:47
+                   0
+Day Temp C      14.4
+Night Temp C     7.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:47
+                   0
+Day Temp C      14.4
+Night Temp C     7.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:48
+                   0
+Day Temp C      14.4
+Night Temp C     7.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:49
+                   0
+Day Temp C      14.4
+Night Temp C     7.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 12:49
+                   0
+Day Temp C      14.4
+Night Temp C     7.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:06
+               Value
+Day Temp C      12.9
+Night Temp C    10.8
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:15
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:15
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:19
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:20
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:21
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:22
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:23
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:25
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:25
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:26
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:26
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:27
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:27
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:28
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:31
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:32
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:32
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:33
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:34
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:41
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:41
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:42
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:44
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 15:51
+               Value
+Day Temp C      12.7
+Night Temp C    11.1
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:03
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:03
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:04
+               Value
+Day Temp C      12.8
+Night Temp C    11.0
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:18
+               Value
+Day Temp C      12.8
+Night Temp C    11.2
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:19
+               Value
+Day Temp C      12.8
+Night Temp C    11.2
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:19
+               Value
+Day Temp C      12.8
+Night Temp C    11.2
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:26
+               Value
+Day Temp C      12.8
+Night Temp C    11.2
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:26
+               Value
+Day Temp C      12.8
+Night Temp C    11.2
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:31
+               Value
+Day Temp C      12.8
+Night Temp C    11.2
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:31
+               Value
+Day Temp C      12.8
+Night Temp C    11.2
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:35
+               Value
+Day Temp C      13.0
+Night Temp C    10.9
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:36
+               Value
+Day Temp C      13.0
+Night Temp C    10.9
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:37
+               Value
+Day Temp C      13.0
+Night Temp C    10.9
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:38
+               Value
+Day Temp C      13.0
+Night Temp C    10.9
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:38
+               Value
+Day Temp C      13.0
+Night Temp C    10.9
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:41
+               Value
+Day Temp C      13.0
+Night Temp C    10.9
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:42
+               Value
+Day Temp C      13.0
+Night Temp C    10.9
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:43
+               Value
+Day Temp C      13.0
+Night Temp C    10.9
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:43
+               Value
+Day Temp C      13.0
+Night Temp C    10.9
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:45
+               Value
+Day Temp C      13.0
+Night Temp C    10.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:47
+               Value
+Day Temp C      13.0
+Night Temp C    10.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:48
+               Value
+Day Temp C      13.0
+Night Temp C    10.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:49
+               Value
+Day Temp C      13.0
+Night Temp C    10.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:49
+               Value
+Day Temp C      13.0
+Night Temp C    10.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:50
+               Value
+Day Temp C      13.0
+Night Temp C    10.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:52
+               Value
+Day Temp C      13.0
+Night Temp C    10.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:53
+               Value
+Day Temp C      13.0
+Night Temp C    10.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:53
+               Value
+Day Temp C      13.0
+Night Temp C    10.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:54
+               Value
+Day Temp C      13.0
+Night Temp C    10.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:54
+               Value
+Day Temp C      13.0
+Night Temp C    10.5
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 16:58
+               Value
+Day Temp C      13.1
+Night Temp C    10.3
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 17:00
+               Value
+Day Temp C      13.1
+Night Temp C    10.3
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 17:07
+               Value
+Day Temp C      13.5
+Night Temp C     9.9
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 17:12
+               Value
+Day Temp C      13.5
+Night Temp C     9.9
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 17:12
+               Value
+Day Temp C      13.5
+Night Temp C     9.9
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 17:14
+               Value
+Day Temp C      13.5
+Night Temp C     9.9
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 17:15
+               Value
+Day Temp C      13.8
+Night Temp C     9.6
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 17:15
+               Value
+Day Temp C      13.8
+Night Temp C     9.6
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 17:16
+               Value
+Day Temp C      13.8
+Night Temp C     9.6
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 17:16
+               Value
+Day Temp C      13.8
+Night Temp C     9.6
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 17:17
+               Value
+Day Temp C      13.8
+Night Temp C     9.6
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 17:18
+               Value
+Day Temp C      13.8
+Night Temp C     9.6
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 17:19
+               Value
+Day Temp C      13.8
+Night Temp C     9.6
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 17:26
+               Value
+Day Temp C      13.8
+Night Temp C     9.6
+Now Temp C      17.0
+Feels Like C  lue\nR
+-------------------------------------- 
+Today's date is 14/7/2021 -- Time is 17:38
+               Value
+Day Temp C      14.0
+Night Temp C     9.4
+Now Temp C      17.0
+Feels Like C  lue\nR
