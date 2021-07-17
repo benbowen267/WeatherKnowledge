@@ -1,7 +1,7 @@
 import streamlit as st
 import datetime
 import urllib.request as urllib2
-from bs4 import BeautifulSoup
+#from bs4 import BeautifulSoup
 import pandas as pd
 import lxml
 import matplotlib as plot
