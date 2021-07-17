@@ -1,4 +1,5 @@
 environment.yml
+-m pip install --upgrade pip
 pip install streamlit
 pip install datetime
 pip install urllib.request
