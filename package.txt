@@ -1,0 +1,10 @@
+environment.yml
+pip install streamlit
+pip install datetime
+pip install urllib.request
+pip install bs4
+pip install pandas
+pip install lxml
+pip install matplotlib
+pip install graphviz
+
