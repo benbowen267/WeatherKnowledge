@@ -9,7 +9,7 @@ from PIL import Image
 import graphviz as graphviz
 def app():
     def get_todays_date():
-        today = datetime.datetime.now()
+        today = datetime.datetime.now(datetime.timezone.aest)
         year_string = str(today.year)
         month_string = str(today.month)
         day_string = str(today.day)
