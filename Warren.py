@@ -13,8 +13,8 @@ def app():
         year_string = str(today.year)
         month_string = str(today.month)
         day_string = str(today.day)
-        ti = datetime.datetime.now(+12.0)
-        tim= str(ti)
+        ti = datetime.datetime.now()
+        tim= str(ti + 12.0)
         time= tim[11:-10]
         ReturnString_1 = "Today's date is " + day_string + '/'+ month_string + '/' + year_string
         return (ReturnString_1 + ' -- ' "Time is "+ str(time))
