@@ -3,12 +3,8 @@ import streamlit as st
 from datetime import datetime, timedelta
 from pytz import timezone
 import pytz
-utc = pytz.utc
-utc.zone
-'UTC'
-
-Sydney = timezone('Australia/Sydney')
-fmt = '%Y-%m-%d %H:%M'
+from pytz import common_timezones
+Sydney = 'Australia/Sydney' in common_timezones
 st.write(Sydney)
 def app():
     col1, col2 = st.beta_columns([2.5,10])
