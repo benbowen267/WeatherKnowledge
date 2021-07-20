@@ -5,6 +5,7 @@ from pytz import timezone
 import pytz
 utc = pytz.utc
 utc.zone
+'UTC'
 
 Sydney = timezone('Australia/Sydney')
 fmt = '%Y-%m-%d %H:%M'
