@@ -31,17 +31,20 @@ DF<-DF[!grepl("Thursday,", DF$first_table...1.),]
 DF<-DF[!grepl("Friday,", DF$first_table...1.),]
 DF<-DF[!grepl("Satday,", DF$first_table...1.),]
 DF<-DF[!grepl("Sunday,", DF$first_table...1.),]
-print(DF)
+#print(DF)
+colnames(DF) <- c("Time", "Temp", "Chance of Rain", "Cloud Cover", "Wind", "Dew Point", "Humidity")
+write.csv(DF,"C:\\Users\\BenBowen\\Desktop\\WeatherKnowledge\\my_data.csv", row.names = FALSE)
 
 
-par(mar = c(6.5, 6.5, 2, 8), mgp = c(5, 1, 0))
-x<- 1:13
-y1<- DF$first_table...4.[1:13] #temp
-y2<- DF$first_table...5.[1:13] #chanceofrain
-y3<- DF$first_table...6.[1:13] #cloudcover
-y4<- DF$first_table...8.[1:13] #wind
-y5<- DF$first_table...9.[1:13] #dewpoint
-y6<- DF$first_table...10.[1:13] #humidity
+
+#par(mar = c(6.5, 6.5, 2, 8), mgp = c(5, 1, 0))
+#x<- 1:13
+#y1<- DF$first_table...4.[1:13] #temp
+#y2<- DF$first_table...5.[1:13] #chanceofrain
+#y3<- DF$first_table...6.[1:13] #cloudcover
+#y4<- DF$first_table...8.[1:13] #wind
+#y5<- DF$first_table...9.[1:13] #dewpoint
+#y6<- DF$first_table...10.[1:13] #humidity
 
 
 #plot(x, y1, 'l',
@@ -51,21 +54,21 @@ y6<- DF$first_table...10.[1:13] #humidity
 #ylim=c(5,45), lwd=2,
 #xaxt= 'n')
 
-par(new=T)
-plot(x, y2, axes=F, ylim=c(0, 100), xlab="", ylab="", 
-     type="l",lty=1, main="",xlim=c(1,13),lwd=2, col= "red")
-legend('top',                                       
-       legend= c("Chance of Rain", "Cloud Cover"),
-       col = c("red", "blue"),
-       lty = 1,
-       horiz=TRUE, cex=0.5)
-par(new=T)
-plot(x, y3, axes=F, ylim=c(0, 100), xlab="", ylab="", 
-     type="l",lty=1, main="Chane of Rain next 45 Hours",xlim=c(1,13),lwd=2, col= "blue")
+#par(new=T)
+#plot(x, y2, axes=F, ylim=c(0, 100), xlab="", ylab="", 
+ #    type="l",lty=1, main="",xlim=c(1,13),lwd=2, col= "red")
+#legend('top',                                       
+#       legend= c("Chance of Rain", "Cloud Cover"),
+#       col = c("red", "blue"),
+#       lty = 1,
+#       horiz=TRUE, cex=0.5)
+#par(new=T)
+#plot(x, y3, axes=F, ylim=c(0, 100), xlab="", ylab="", 
+#     type="l",lty=1, main="Chane of Rain next 45 Hours",xlim=c(1,13),lwd=2, col= "blue")
 
-axis(side= 4, ylim=c(0,100),twd=1, col="BLACK",lwd.ticks = 1, tck = 0.02,cex.main=1, cex.lab=1, cex.axis=1,
-     mtext("Chance of Rain, Cloud Cover", las= 3, side= 4, line=2.5, cex.label=1, col="black"))
-par(new=T)
+#axis(side= 4, ylim=c(0,100),twd=1, col="BLACK",lwd.ticks = 1, tck = 0.02,cex.main=1, cex.lab=1, cex.axis=1,
+#     mtext("Chance of Rain, Cloud Cover", las= 3, side= 4, line=2.5, cex.label=1, col="black"))
+#par(new=T)
 #plot(x, y4, axes=F, ylim=c(5, 45), xlab="", ylab="", 
     # type="l",lty=1, main="",xlim=c(1,13),lwd=2, col= "purple")
 
@@ -73,7 +76,7 @@ par(new=T)
 #plot(x, y6, axes=F, ylim=c(0, 100), xlab="", ylab="", 
 #     type="l",lty=1, main="",xlim=c(1,13),lwd=2, col= "orange")
 
-axis(1, 1:17, DF$first_table...1., col.axis="black")
+#axis(1, 1:17, DF$first_table...1., col.axis="black")
 
 
 
