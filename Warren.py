@@ -136,7 +136,7 @@ def app():
             st.write('oh well')
         
     with col2:
-        st.image('Seasons.jpg')
+        st.image('Seasons.JPG')
     forecastdata = pd.read_csv("my_data.csv")
     st.write(forecastdata)
    
