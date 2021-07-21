@@ -33,7 +33,7 @@ DF<-DF[!grepl("Satday,", DF$first_table...1.),]
 DF<-DF[!grepl("Sunday,", DF$first_table...1.),]
 #print(DF)
 colnames(DF) <- c("Time", "Temp", "Chance of Rain", "Cloud Cover", "Wind", "Dew Point", "Humidity")
-write.csv(DF,"C:\\Users\\BenBowen\\Desktop\\WeatherKnowledge\\my_data.csv", row.names = FALSE)
+write.csv(DF,"https:\\github.com\\benbowen267\\WeatherKnowledge\\blob\\master\\my_data.csv", row.names = FALSE)
 
 
 
