@@ -1,5 +1,11 @@
 # HomePage.py
 import streamlit as st
+#from datetime import datetime, timedelta
+#from pytz import timezone
+#import pytz
+#from pytz import common_timezones
+#Sydney = 'Australia/Sydney' in common_timezones
+#st.write(Sydney)
 def app():
     col1, col2 = st.beta_columns([2.5,10])
 #Header logo and Name
