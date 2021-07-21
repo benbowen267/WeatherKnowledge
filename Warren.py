@@ -6,7 +6,9 @@ import pandas as pd
 import lxml
 import matplotlib as plot
 from PIL import Image
-import graphviz as graphviz
+#import my_data
+
+
 def app():
     def get_todays_date():
         today = datetime.datetime.now()
@@ -134,8 +136,13 @@ def app():
             st.write('oh well')
         
     with col2:
-        st.image('Seasons.JPG')
+        st.image('seasons.jpg')
+    forecastdata = pd.read_csv("my_data.csv")
+    st.write(forecastdata)
+   
+
     
+ 
 
 
 
