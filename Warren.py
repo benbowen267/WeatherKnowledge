@@ -155,6 +155,13 @@ def app():
      
     Forecastdata = WeatherForecasting()
     st.write(Forecastdata)
+    Forecastdata.pop("Weather Conditions")
+    Forecastdata.pop("Chance of Rain")
+    Forecastdata.pop("Wind Direction & Speed")
+    Forecastdata.pop("Humidity")
+    Forecastdata.pop("Cloud Cover")
+    st.line_chart(Forecastdata[1:5])
+    
    
 
     
