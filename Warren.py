@@ -142,8 +142,8 @@ def app():
     with col2:
         st.image('Seasons.JPG')
    
-   forecastdata = check_output("ForecastingSYDmodel.R", shell=True)
-   st.write(forecastdata)
+   #forecastdata = check_output("ForecastingSYDmodel.R", shell=True)
+   #st.write(forecastdata)
    
 
     
