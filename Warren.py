@@ -160,7 +160,7 @@ def app():
     Forecastdata.pop("Wind Direction & Speed")
     Forecastdata.pop("Humidity")
     Forecastdata.pop("Cloud Cover")
-    st.line_chart(Forecastdata[1:5])
+    st.line_chart(Forecastdata[1:4])
     
    
 
