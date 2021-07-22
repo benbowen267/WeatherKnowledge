@@ -7,6 +7,7 @@ import lxml
 import matplotlib as plot
 from PIL import Image
 import subprocess
+from subprocess import check_output
 
 
 #import my_data
@@ -140,10 +141,9 @@ def app():
         
     with col2:
         st.image('Seasons.JPG')
-    subprocess.call("ForecastingSYDmodel.R", shell=True)
-    
-    forecastdata = DF #pd.read_csv("my_data.csv")
-    st.write(forecastdata)
+   
+   forecastdata = check_output("ForecastingSYDmodel.R", shell=True)
+   st.write(forecastdata)
    
 
     
