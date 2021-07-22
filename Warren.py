@@ -140,7 +140,7 @@ def app():
         
     with col2:
         st.image('Seasons.JPG')
-    subprocess.Popen("ForecastingSYDmodel.R", shell=True)
+    subprocess.call("ForecastingSYDmodel.R", shell=True)
     
     forecastdata = DF #pd.read_csv("my_data.csv")
     st.write(forecastdata)
