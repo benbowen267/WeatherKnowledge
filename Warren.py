@@ -121,11 +121,11 @@ def app():
     
     Forecastdata = WeatherForecasting()
     
-    Conditions = str(Forecastdata("Weather Conditions")
-    Conditions = Conditions[1]
+    WeatherC = str(Forecastdata("Weather Conditions")
+    WeatherC = WeatherC[1]
 
     st.write("Today we are looking at Sydney's forecast through the lens of the Dharrawal 6 seasons")
-    st.write("Conditions are " + Conditions)
+    st.write("Conditions are " + WeatherC)
     #st.write(df1)
 
     col1, col2 = st.beta_columns([10,10])
