@@ -132,7 +132,7 @@ def app():
         if month == "6" or "7":
             st.title("We are in the Burrugin Season")
             st.write("This is the time when the male Burrugin form lines of up to ten as they follow the female through the woodlands in an effort to wear her down and mate with her. It is also the time when the Burringoa starts to produce flowers, indicating that it is time to collect the nectar of certain plants for the ceremonies. It is also a warning not to eat shellfish.")
-
+#Need to complete season information and add some images
         elif month == "7" or "8":
             st.write('Wiritjiribin Cold and Windy')
         elif month == "9" or "10":
