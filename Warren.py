@@ -118,8 +118,14 @@ def app():
     df1 = my_series.to_frame()
     df1= pd.DataFrame(df1)
     df1.columns = ["Value"]
+    
+    Forecastdata = WeatherForecasting()
+    
+    Conditions = str(Forecastdata("Weather Conditions")
+    Conditions = Conditions[1]
 
     st.write("Today we are looking at Sydney's forecast through the lens of the Dharrawal 6 seasons")
+    st.write("Conditions are " + Conditions)
     #st.write(df1)
 
     col1, col2 = st.beta_columns([10,10])
