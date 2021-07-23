@@ -136,7 +136,7 @@ def app():
         elif month == "7" or "8":
             st.write('Wiritjiribin Cold and Windy')
         elif month == "9" or "10":
-            st.write('Ngoonungi Cool Becoming Warm'
+            st.write('Ngoonungi Cool Becoming Warm')
         elif month == "11" or "12":
             st.write("Parra'dowee Warm and Wet")
         elif month == "1" or "2" or "3":
