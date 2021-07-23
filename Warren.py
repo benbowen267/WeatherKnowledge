@@ -128,8 +128,8 @@ def app():
         st.write(df1)
         #season predictor
         today = datetime.datetime.now()
-        month = int(today.month)
-        if month == 6 or 7:
+        month = str(today.month)
+        if month == "6" or "7":
             st.title("We are in the Burrugin Season")
             st.write("This is the time when the male Burrugin form lines of up to ten as they follow the female through the woodlands in an effort to wear her down and mate with her. It is also the time when the Burringoa starts to produce flowers, indicating that it is time to collect the nectar of certain plants for the ceremonies. It is also a warning not to eat shellfish.")
 
