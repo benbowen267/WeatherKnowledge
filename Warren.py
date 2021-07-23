@@ -142,7 +142,7 @@ def app():
         elif month == "1" or "2" or "3":
             st.write('Burran Hot and Dry')
         elif month == "4" or "5" or "6":
-            st.write("Marrai'gang Wet Becoming Cool')
+            st.write("Marrai'gang Wet Becoming Cool")
         
     with col2:
         st.image('Seasons.JPG')
