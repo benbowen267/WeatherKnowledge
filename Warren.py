@@ -131,7 +131,7 @@ def app():
         
      
     Forecastdata = WeatherForecasting()
-    weathercond= str(Forecastdata("Weather Conditions")
+    weathercond= Forecastdata[['Weather Conditions']]
     st.write(weathercond)
     
     
