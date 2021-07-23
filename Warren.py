@@ -8,22 +8,19 @@ import matplotlib as plot
 from PIL import Image
 import subprocess
 from subprocess import check_output
-
-
-#import my_data
+import pytz
 
 
 def app():
     def get_todays_date():
-        today = datetime.datetime.now()
-        year_string = str(today.year)
-        month_string = str(today.month)
-        day_string = str(today.day)
-        ti = datetime.datetime.now()
-        tim= str(ti)
-        time= tim[11:-10]
-        ReturnString_1 = "Today's date is " + day_string + '/'+ month_string + '/' + year_string
-        return (ReturnString_1 + ' -- ' "Time is "+ str(time))
+        tz = pytz.timezone('Australia/Sydney')
+        now = datetime.datetime.now(tz)
+        
+        today = str(now)
+        today = today[0:16]
+       
+        ReturnString_1 = "Date and time is " + today
+        return (ReturnString_1))
 
     col1, col2 = st.beta_columns([2.5,10])
 
