@@ -133,6 +133,7 @@ def app():
     Forecastdata = WeatherForecasting()
     weathercond= Forecastdata[['Weather Conditions']]
     weathercond = weathercond[1:2]
+    weathercond.columns= ["Time", "Conditions Today in Warren"
     st.write(weathercond)
     
     
