@@ -134,14 +134,15 @@ def app():
     weathercond= Forecastdata[['Weather Conditions']]
     weathercond = weathercond[1:2]
     weathercond.columns= ["Conditions Today in Warren"]
+    st.write("Today we are looking at Sydney's forecast through the lens of the Dharrawal 6 seasons")
     st.write(weathercond)
     
     
     
     
 
-    #st.write("Today we are looking at Sydney's forecast through the lens of the Dharrawal 6 seasons")
-    #st.write("Conditions are " + WeatherC)
+    
+    
     #st.write(df1)
 
     col1, col2 = st.beta_columns([10,10])
