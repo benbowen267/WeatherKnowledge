@@ -122,7 +122,7 @@ def app():
     Forecastdata = WeatherForecasting()
     
     WeatherC = str(Forecastdata("Weather Conditions")
-    WeatherC = WeatherC[1]
+    #WeatherC = WeatherC[1]
 
     st.write("Today we are looking at Sydney's forecast through the lens of the Dharrawal 6 seasons")
     st.write("Conditions are " + WeatherC)
