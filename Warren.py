@@ -132,7 +132,7 @@ def app():
      
     Forecastdata = WeatherForecasting()
     weathercond= Forecastdata[['Weather Conditions']]
-    weathercond = weathercond.set_index('Weather Conditions')
+    weathercond = weathercond[1]
     st.write(weathercond)
     
     
