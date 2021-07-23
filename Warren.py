@@ -119,7 +119,7 @@ def app():
     df1= pd.DataFrame(df1)
     df1.columns = ["Value"]
     
-     def WeatherForecasting():
+    def WeatherForecasting():
         content = pd.read_html('https://www.weatherzone.com.au/nsw/sydney/sydney/detailed-forecast', header=0)
         DF= content[0]
         DF.pop("Weather")
@@ -133,13 +133,6 @@ def app():
     Forecastdata = WeatherForecasting()
     weathercond= str(Forecastdata("Weather Conditions", :2)
     st.write(weathercond)
-    st.write(Forecastdata)
-    Forecastdata.pop("Weather Conditions")
-    Forecastdata.pop("Chance of Rain")
-    Forecastdata.pop("Wind Direction & Speed")
-    Forecastdata.pop("Humidity")
-    Forecastdata.pop("Cloud Cover")
-    st.line_chart(Forecastdata[1:4])
     
     
     
@@ -175,6 +168,13 @@ def app():
         st.image('Seasons.JPG')
    
    
+    st.write(Forecastdata)
+    Forecastdata.pop("Weather Conditions")
+    Forecastdata.pop("Chance of Rain")
+    Forecastdata.pop("Wind Direction & Speed")
+    Forecastdata.pop("Humidity")
+    Forecastdata.pop("Cloud Cover")
+    st.line_chart(Forecastdata[1:4])
     
    
 
