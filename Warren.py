@@ -20,7 +20,7 @@ def app():
         today = today[0:16]
        
         ReturnString_1 = "Date and time is " + today
-        return (ReturnString_1))
+        return (ReturnString_1)
 
     col1, col2 = st.beta_columns([2.5,10])
 
