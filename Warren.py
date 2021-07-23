@@ -119,13 +119,34 @@ def app():
     df1= pd.DataFrame(df1)
     df1.columns = ["Value"]
     
+     def WeatherForecasting():
+        content = pd.read_html('https://www.weatherzone.com.au/nsw/sydney/sydney/detailed-forecast', header=0)
+        DF= content[0]
+        DF.pop("Weather")
+        DF.pop("Wind")
+        DF.columns = ["Time of Day", "Weather Conditions", "Temperature", "Chance of Rain", "Cloud Cover", "Wind Direction & Speed", "Dew Point", "Humidity"]
+        DF= DF.set_index('Time of Day')
+        DF= DF.iloc[:9,:]
+        return(DF)
+        
+     
     Forecastdata = WeatherForecasting()
+    weathercond= str(Forecastdata("Weather Conditions", :2)
+    st.write(weathercond)
+    st.write(Forecastdata)
+    Forecastdata.pop("Weather Conditions")
+    Forecastdata.pop("Chance of Rain")
+    Forecastdata.pop("Wind Direction & Speed")
+    Forecastdata.pop("Humidity")
+    Forecastdata.pop("Cloud Cover")
+    st.line_chart(Forecastdata[1:4])
     
-    WeatherC = str(Forecastdata("Weather Conditions")
-    #WeatherC = WeatherC[1]
+    
+    
+    
 
-    st.write("Today we are looking at Sydney's forecast through the lens of the Dharrawal 6 seasons")
-    st.write("Conditions are " + WeatherC)
+    #st.write("Today we are looking at Sydney's forecast through the lens of the Dharrawal 6 seasons")
+    #st.write("Conditions are " + WeatherC)
     #st.write(df1)
 
     col1, col2 = st.beta_columns([10,10])
@@ -153,25 +174,7 @@ def app():
     with col2:
         st.image('Seasons.JPG')
    
-    def WeatherForecasting():
-        content = pd.read_html('https://www.weatherzone.com.au/nsw/sydney/sydney/detailed-forecast', header=0)
-        DF= content[0]
-        DF.pop("Weather")
-        DF.pop("Wind")
-        DF.columns = ["Time of Day", "Weather Conditions", "Temperature", "Chance of Rain", "Cloud Cover", "Wind Direction & Speed", "Dew Point", "Humidity"]
-        DF= DF.set_index('Time of Day')
-        DF= DF.iloc[:9,:]
-        return(DF)
-        
-     
-    Forecastdata = WeatherForecasting()
-    st.write(Forecastdata)
-    Forecastdata.pop("Weather Conditions")
-    Forecastdata.pop("Chance of Rain")
-    Forecastdata.pop("Wind Direction & Speed")
-    Forecastdata.pop("Humidity")
-    Forecastdata.pop("Cloud Cover")
-    st.line_chart(Forecastdata[1:4])
+   
     
    
 
