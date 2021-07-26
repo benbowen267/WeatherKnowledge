@@ -13,7 +13,8 @@ def app():
         st.image('unnamed.png')
 
     with col2:
-        st.title("HIOUDHSOJKHFopjkeaf")
+        st.title("SHARED PATH ABORIGINAL AND TORRES STRAIIT ISLANDER CORPORATION
+                  ")
 #App Name
     st.title('Welcome to the Indigenous Weather Knowledges App')
 #Intro information HomePage
