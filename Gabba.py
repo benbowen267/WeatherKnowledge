@@ -126,14 +126,14 @@ def app():
         DF= content[0]
         #DF.pop("Weather")
         #DF.pop("Wind")
-        #DF.columns = ["Time of Day", "Weather Conditions", "Temperature", "Chance of Rain", "Cloud Cover", "Wind Direction & Speed", "Dew Point", "Humidity"]
-        #DF= DF.set_index('Time of Day')
+        DF.columns = ["Time of Day", "Weather Conditions", "Temperature", "Chance of Rain", "Cloud Cover", "Wind Direction & Speed", "Dew Point", "Humidity"]
+        DF= DF.set_index('Time of Day')
         #DF= DF.iloc[:9,:]
         return(DF)
         
      
     Forecastdata = WeatherForecasting()
-    weathercond= Forecastdata #[['Weather Conditions']]
+    weathercond= Forecastdata [['Weather Conditions']]
     weathercond = weathercond[1:2]
     #weathercond.columns= ["Conditions Today in Gabba"]
     st.write("Today we are looking at Wujal Wujal forecast through the lens of the ?????????? seasons")
