@@ -127,12 +127,13 @@ def app():
         #DF.pop("Weather")
         #DF.pop("Wind")
         #DF.columns = ["Time of Day", "Weather Conditions", "Temperature", "Chance of Rain", "Cloud Cover", "Wind Direction & Speed", "Dew Point", "Humidity"]
-        DF= DF.set_index('Time of Day')
+        #DF= DF.set_index('Time of Day')
         #DF= DF.iloc[:9,:]
         return(DF)
         
      
     Forecastdata = WeatherForecasting()
+    st.write(Forecastdata)
     weathercond= Forecastdata [['Weather Conditions']]
     weathercond = weathercond[1:2]
     #weathercond.columns= ["Conditions Today in Gabba"]
