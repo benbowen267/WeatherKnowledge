@@ -69,71 +69,71 @@ def app():
     weatherNow= Weather_Now()
 
 
-    daytemp= (weatherNow[1])
-    daytemp= float(daytemp[:-2])
-    nighttemp = (weatherNow[3])
-    nighttemp= float(nighttemp[:-2])
-    nowtemp= (weatherNow[5])
-    nowtemp= nowtemp.strip('°C')
-    nowtemp=float(nowtemp)
-    dewpoint= (weatherNow[7])
-    dewpoint= dewpoint.strip('°C')
-    dewpoint=float(dewpoint)
-    sunrise= (weatherNow[9])
-    sunrise=sunrise.strip('EDT')
+  #  daytemp= (weatherNow[1])
+  #  daytemp= float(daytemp[:-2])
+  #  nighttemp = (weatherNow[3])
+  #  nighttemp= float(nighttemp[:-2])
+  #  nowtemp= (weatherNow[5])
+  #  nowtemp= nowtemp.strip('°C')
+  #  nowtemp=float(nowtemp)
+  #  dewpoint= (weatherNow[7])
+  #  dewpoint= dewpoint.strip('°C')
+  #  dewpoint=float(dewpoint)
+  #  sunrise= (weatherNow[9])
+  #  sunrise=sunrise.strip('EDT')
 #sunrise= float(sunrise)
-    sunset= (weatherNow[11])
-    sunset=sunset.strip('EDT')
+   # sunset= (weatherNow[11])
+   # sunset=sunset.strip('EDT')
 #sunset=float(sunset)
 #daylighthrs= (sunset-sunrise)
 
-    FeelsLike= str(weatherNow1[0:1])
-    FeelsLike= FeelsLike[20:23]
-    FeelsLike= float(FeelsLike)
-    Humidity= str(weatherNow1[0:1])
-    Humidity= Humidity[52:-1]
+    #FeelsLike= str(weatherNow1[0:1])
+    #FeelsLike= FeelsLike[20:23]
+    #FeelsLike= float(FeelsLike)
+    #Humidity= str(weatherNow1[0:1])
+    #Humidity= Humidity[52:-1]
     #Humidity=float(Humidity)
-    WindDir= str(weatherNow1[1:2])
-    WindDir=WindDir[-9:-4]
-    WindSpd= str(weatherNow1[1:2])
-    WindSpd=WindSpd[-6:-4]
+    #WindDir= str(weatherNow1[1:2])
+    #WindDir=WindDir[-9:-4]
+    #WindSpd= str(weatherNow1[1:2])
+    #WindSpd=WindSpd[-6:-4]
 #WindSpd= float(WindSpd)
-    WindGst= str(weatherNow1[2:3]) 
-    WindGst= WindGst[-6:-4]    
+    #WindGst= str(weatherNow1[2:3]) 
+    #WindGst= WindGst[-6:-4]    
 #WindGst= float(WindGst)
-    Pressure= str(weatherNow1[3:4])  
-    Pressure=Pressure[-10:-3]
+    #Pressure= str(weatherNow1[3:4])  
+    #Pressure=Pressure[-10:-3]
 #Pressure=float(Pressure)  
-    FireDanger= str(weatherNow1[4:5])  
-    FireDanger=FireDanger[-4:]
-    FireDanger= float(FireDanger)       
-    Rainsince9am= str(weatherNow1[5:6])
-    Rainsince9am=Rainsince9am[-10:-6]
+    #FireDanger= str(weatherNow1[4:5])  
+    #FireDanger=FireDanger[-4:]
+    #FireDanger= float(FireDanger)       
+    #Rainsince9am= str(weatherNow1[5:6])
+    #Rainsince9am=Rainsince9am[-10:-6]
 
 
-    para = ['Day Temp C','Night Temp C','Now Temp C','Feels Like C', 'Humidity %','Pressure hPa', 'Fire Danger', "Rain Since 9am"]
-    values=[daytemp, nighttemp, nowtemp, FeelsLike, Humidity, Pressure, FireDanger, Rainsince9am]
-    my_series = pd.Series(values, para)
+    #para = ['Day Temp C','Night Temp C','Now Temp C','Feels Like C', 'Humidity %','Pressure hPa', 'Fire Danger', "Rain Since 9am"]
+    #values=[daytemp, nighttemp, nowtemp, FeelsLike, Humidity, Pressure, FireDanger, Rainsince9am]
+    #my_series = pd.Series(values, para)
 
-    df1 = my_series.to_frame()
-    df1= pd.DataFrame(df1)
-    df1.columns = ["Value"]
+    #df1 = my_series.to_frame()
+    #df1= pd.DataFrame(df1)
+    #df1.columns = ["Value"]
     
-    def WeatherForecasting():
-        content = pd.read_html('https://www.weatherzone.com.au/qld/north-coast-and-tableland/wujal-wujal', header=0)
-        DF= content[0]
+    #def WeatherForecasting():
+     #   content = pd.read_html('https://www.weatherzone.com.au/qld/north-coast-and-tableland/wujal-wujal', header=0)
+      #  DF= content[0]
         #DF.pop("Weather")
        # DF.pop("Wind")
         #DF.columns = ["Time of Day", "Weather Conditions", "Temperature", "Chance of Rain", "Cloud Cover", "Wind Direction & Speed", "Dew Point", "Humidity"]
         #DF= DF.set_index('Time of Day')
        # DF= DF.iloc[:9,:]
-        return(DF)
+       # return(DF)
         
      
-    Forecastdata = WeatherForecasting()
-    weathercond= Forecastdata[['Weather Conditions']]
-    weathercond = weathercond[1:2]
-    weathercond.columns= ["Conditions Today in Gabba"]
+    #Forecastdata = WeatherForecasting()
+    #weathercond= Forecastdata[['Weather Conditions']]
+    #weathercond = weathercond[1:2]
+    #weathercond.columns= ["Conditions Today in Gabba"]
     st.write("Today we are looking at Wujal Wujal forecast through the lens of the ?????????? seasons")
     st.write(weathercond)
     
@@ -147,37 +147,37 @@ def app():
 
     col1, col2 = st.beta_columns([10,10])
 
-    with col1:
-        st.write(df1)
+    #with col1:
+     #   st.write(df1)
         #season predictor
-        today = datetime.datetime.now()
-        month = str(today.month)
-        if month == "6" or "7":
+      #  today = datetime.datetime.now()
+       # month = str(today.month)
+        #if month == "6" or "7":
             st.title("We are in the Burrugin Season")
             st.write("This is the time when the male Burrugin form lines of up to ten as they follow the female through the woodlands in an effort to wear her down and mate with her. It is also the time when the Burringoa starts to produce flowers, indicating that it is time to collect the nectar of certain plants for the ceremonies. It is also a warning not to eat shellfish.")
 #Need to complete season information and add some images
-        elif month == "7" or "8":
+        #elif month == "7" or "8":
             st.write('Wiritjiribin Cold and Windy')
-        elif month == "9" or "10":
+        #elif month == "9" or "10":
             st.write('Ngoonungi Cool Becoming Warm')
-        elif month == "11" or "12":
+        #elif month == "11" or "12":
             st.write("Parra'dowee Warm and Wet")
-        elif month == "1" or "2" or "3":
+        #elif month == "1" or "2" or "3":
             st.write('Burran Hot and Dry')
-        elif month == "4" or "5" or "6":
+        #elif month == "4" or "5" or "6":
             st.write("Marrai'gang Wet Becoming Cool")
         
-    with col2:
-        st.image('Seasons.JPG')
+    #with col2:
+        #st.image('Seasons.JPG')
    
    
-    st.write(Forecastdata)
-    Forecastdata.pop("Weather Conditions")
-    Forecastdata.pop("Chance of Rain")
-    Forecastdata.pop("Wind Direction & Speed")
-    Forecastdata.pop("Humidity")
-    Forecastdata.pop("Cloud Cover")
-    st.line_chart(Forecastdata[1:4])
+    #st.write(Forecastdata)
+    #Forecastdata.pop("Weather Conditions")
+    #Forecastdata.pop("Chance of Rain")
+    #Forecastdata.pop("Wind Direction & Speed")
+    #Forecastdata.pop("Humidity")
+   # Forecastdata.pop("Cloud Cover")
+  #  st.line_chart(Forecastdata[1:4])
     
    
 
