@@ -133,7 +133,7 @@ def app():
         
      
     Forecastdata = WeatherForecasting()
-    st.write(Forecastdata)
+   # st.write(Forecastdata)
     #weathercond= Forecastdata [['Weather Conditions']]
     #weathercond = weathercond[1:2]
     #weathercond.columns= ["Conditions Today in Gabba"]
