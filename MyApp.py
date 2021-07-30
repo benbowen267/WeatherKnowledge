@@ -7,10 +7,12 @@ import Gimuy
 import Mparntwe
 import Tarndanya
 import Boorloo
+import Gabba
 import streamlit as st
 PAGES = {
     "Home Page": HomePage,
     "Warren" : Warren,
+    "Gabba" : Gabba,
     #"Naarm": Naarm,
     #"Ngunnawal": Ngunnawal,
     #"Nipaluna": Nipaluna,
