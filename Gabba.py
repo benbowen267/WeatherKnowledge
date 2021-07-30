@@ -69,73 +69,73 @@ def app():
     weatherNow= Weather_Now()
 
 
-  #  daytemp= (weatherNow[1])
-  #  daytemp= float(daytemp[:-2])
-  #  nighttemp = (weatherNow[3])
-  #  nighttemp= float(nighttemp[:-2])
-  #  nowtemp= (weatherNow[5])
-  #  nowtemp= nowtemp.strip('°C')
-  #  nowtemp=float(nowtemp)
-  #  dewpoint= (weatherNow[7])
-  #  dewpoint= dewpoint.strip('°C')
-  #  dewpoint=float(dewpoint)
-  #  sunrise= (weatherNow[9])
-  #  sunrise=sunrise.strip('EDT')
+    daytemp= (weatherNow[1])
+    daytemp= float(daytemp[:-2])
+    nighttemp = (weatherNow[3])
+    nighttemp= float(nighttemp[:-2])
+    nowtemp= (weatherNow[5])
+    nowtemp= nowtemp.strip('°C')
+    nowtemp=float(nowtemp)
+    dewpoint= (weatherNow[7])
+    dewpoint= dewpoint.strip('°C')
+    dewpoint=float(dewpoint)
+    sunrise= (weatherNow[9])
+    sunrise=sunrise.strip('EDT')
 #sunrise= float(sunrise)
-   # sunset= (weatherNow[11])
-   # sunset=sunset.strip('EDT')
+    sunset= (weatherNow[11])
+    sunset=sunset.strip('EDT')
 #sunset=float(sunset)
 #daylighthrs= (sunset-sunrise)
 
-    #FeelsLike= str(weatherNow1[0:1])
-    #FeelsLike= FeelsLike[20:23]
-    #FeelsLike= float(FeelsLike)
-    #Humidity= str(weatherNow1[0:1])
-    #Humidity= Humidity[52:-1]
-    #Humidity=float(Humidity)
-    #WindDir= str(weatherNow1[1:2])
-    #WindDir=WindDir[-9:-4]
-    #WindSpd= str(weatherNow1[1:2])
-    #WindSpd=WindSpd[-6:-4]
+    FeelsLike= str(weatherNow1[0:1])
+    FeelsLike= FeelsLike[20:23]
+    FeelsLike= float(FeelsLike)
+    Humidity= str(weatherNow1[0:1])
+    Humidity= Humidity[52:-1]
+    Humidity=float(Humidity)
+    WindDir= str(weatherNow1[1:2])
+    WindDir=WindDir[-9:-4]
+    WindSpd= str(weatherNow1[1:2])
+    WindSpd=WindSpd[-6:-4]
 #WindSpd= float(WindSpd)
-    #WindGst= str(weatherNow1[2:3]) 
-    #WindGst= WindGst[-6:-4]    
+    WindGst= str(weatherNow1[2:3]) 
+    WindGst= WindGst[-6:-4]    
 #WindGst= float(WindGst)
-    #Pressure= str(weatherNow1[3:4])  
-    #Pressure=Pressure[-10:-3]
+    Pressure= str(weatherNow1[3:4])  
+    Pressure=Pressure[-10:-3]
 #Pressure=float(Pressure)  
-    #FireDanger= str(weatherNow1[4:5])  
-    #FireDanger=FireDanger[-4:]
-    #FireDanger= float(FireDanger)       
-    #Rainsince9am= str(weatherNow1[5:6])
-    #Rainsince9am=Rainsince9am[-10:-6]
+    FireDanger= str(weatherNow1[4:5])  
+    FireDanger=FireDanger[-4:]
+    FireDanger= float(FireDanger)       
+    Rainsince9am= str(weatherNow1[5:6])
+    Rainsince9am=Rainsince9am[-10:-6]
 
 
-    #para = ['Day Temp C','Night Temp C','Now Temp C','Feels Like C', 'Humidity %','Pressure hPa', 'Fire Danger', "Rain Since 9am"]
-    #values=[daytemp, nighttemp, nowtemp, FeelsLike, Humidity, Pressure, FireDanger, Rainsince9am]
-    #my_series = pd.Series(values, para)
+    para = ['Day Temp C','Night Temp C','Now Temp C','Feels Like C', 'Humidity %','Pressure hPa', 'Fire Danger', "Rain Since 9am"]
+    values=[daytemp, nighttemp, nowtemp, FeelsLike, Humidity, Pressure, FireDanger, Rainsince9am]
+    my_series = pd.Series(values, para)
 
-    #df1 = my_series.to_frame()
-    #df1= pd.DataFrame(df1)
-    #df1.columns = ["Value"]
+    df1 = my_series.to_frame()
+    df1= pd.DataFrame(df1)
+    df1.columns = ["Value"]
     
-    #def WeatherForecasting():
-     #   content = pd.read_html('https://www.weatherzone.com.au/qld/north-coast-and-tableland/wujal-wujal', header=0)
-      #  DF= content[0]
-        #DF.pop("Weather")
-       # DF.pop("Wind")
-        #DF.columns = ["Time of Day", "Weather Conditions", "Temperature", "Chance of Rain", "Cloud Cover", "Wind Direction & Speed", "Dew Point", "Humidity"]
-        #DF= DF.set_index('Time of Day')
-       # DF= DF.iloc[:9,:]
-       # return(DF)
+    def WeatherForecasting():
+        content = pd.read_html('https://www.weatherzone.com.au/qld/north-coast-and-tableland/port-douglas', header=0)
+        DF= content[0]
+        DF.pop("Weather")
+        DF.pop("Wind")
+        DF.columns = ["Time of Day", "Weather Conditions", "Temperature", "Chance of Rain", "Cloud Cover", "Wind Direction & Speed", "Dew Point", "Humidity"]
+        DF= DF.set_index('Time of Day')
+        DF= DF.iloc[:9,:]
+        return(DF)
         
      
-    #Forecastdata = WeatherForecasting()
-    #weathercond= Forecastdata[['Weather Conditions']]
-    #weathercond = weathercond[1:2]
-    #weathercond.columns= ["Conditions Today in Gabba"]
+    Forecastdata = WeatherForecasting()
+    weathercond= Forecastdata[['Weather Conditions']]
+    weathercond = weathercond[1:2]
+    weathercond.columns= ["Conditions Today in Gabba"]
     st.write("Today we are looking at Wujal Wujal forecast through the lens of the ?????????? seasons")
-    #st.write(weathercond)
+    st.write(weathercond)
     
     
     
