@@ -67,8 +67,7 @@ def app():
 
     weatherNow1= Weather_Now1()
     weatherNow= Weather_Now()
-    st.write(weatherNow1)
-    st.write(weatherNow)
+    
 
 
     daytemp= (weatherNow[1])
@@ -120,6 +119,7 @@ def app():
     df1 = my_series.to_frame()
     df1= pd.DataFrame(df1)
     df1.columns = ["Value"]
+    st.write(df1)
     
     def WeatherForecasting():
         content = pd.read_html('https://www.weatherzone.com.au/qld/north-coast-and-tableland/port-douglas', header=0)
