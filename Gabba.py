@@ -38,12 +38,12 @@ def app():
     st.write(date)
 
     def Weather_Now():
-        df0 = pd.read_html('https://www.weatherzone.com.au/qld/north-coast-and-tableland/wujal-wujal', header=0)
+        df0 = pd.read_html('https://www.weatherzone.com.au/qld/north-coast-and-tableland/port-douglas', header=0)
         df0[1].pop("Unnamed: 1") #remove unused coloumns
         df0[1].pop("Unnamed: 3") #remove unused coloumns
         df0[2].pop("Unnamed: 1")
     #layer two of data
-        df1 = pd.read_html('https://www.weatherzone.com.au/qld/north-coast-and-tableland/wujal-wujal',header=1)
+        df1 = pd.read_html('https://www.weatherzone.com.au/qld/north-coast-and-tableland/port-douglas',header=1)
         df1[1].pop("Unnamed: 1") #remove unused coloumns
         df1[1].pop("Unnamed: 3") #remove unused coloumns
         df1[2].pop("Unnamed: 1")
@@ -53,7 +53,7 @@ def app():
         return df0[1].columns.values.tolist()+df1[1].columns.values.tolist()+ df0[0].columns.values.tolist()+ df1[0].columns.values.tolist()+ df0[0].columns.values.tolist()+ df1[0].columns.values.tolist()
     def Weather_Now1():
     #data= []
-        dfs = pd.read_html('https://www.weatherzone.com.au/qld/north-coast-and-tableland/wujal-wujal',header=1)
+        dfs = pd.read_html('https://www.weatherzone.com.au/qld/north-coast-and-tableland/port-douglas',header=1)
     #for df in dfs:
    
         output_2= dfs[1] #table of details
