@@ -67,6 +67,8 @@ def app():
 
     weatherNow1= Weather_Now1()
     weatherNow= Weather_Now()
+    st.write(weatherNow1)
+    st.write(weatherNow)
 
 
     daytemp= (weatherNow[1])
