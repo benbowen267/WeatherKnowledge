@@ -145,7 +145,7 @@ def app():
     
     #st.write(df1)
 
-    col1, col2 = st.beta_columns([10,10])
+    #col1, col2 = st.beta_columns([10,10])
 
     #with col1:
      #   st.write(df1)
@@ -153,19 +153,19 @@ def app():
       #  today = datetime.datetime.now()
        # month = str(today.month)
         #if month == "6" or "7":
-            st.title("We are in the Burrugin Season")
-            st.write("This is the time when the male Burrugin form lines of up to ten as they follow the female through the woodlands in an effort to wear her down and mate with her. It is also the time when the Burringoa starts to produce flowers, indicating that it is time to collect the nectar of certain plants for the ceremonies. It is also a warning not to eat shellfish.")
+     #       st.title("We are in the Burrugin Season")
+      #      st.write("This is the time when the male Burrugin form lines of up to ten as they follow the female through the woodlands in an effort to wear her down and mate with her. It is also the time when the Burringoa starts to produce flowers, indicating that it is time to collect the nectar of certain plants for the ceremonies. It is also a warning not to eat shellfish.")
 #Need to complete season information and add some images
         #elif month == "7" or "8":
-            st.write('Wiritjiribin Cold and Windy')
+       #     st.write('Wiritjiribin Cold and Windy')
         #elif month == "9" or "10":
-            st.write('Ngoonungi Cool Becoming Warm')
+        #    st.write('Ngoonungi Cool Becoming Warm')
         #elif month == "11" or "12":
-            st.write("Parra'dowee Warm and Wet")
+         #   st.write("Parra'dowee Warm and Wet")
         #elif month == "1" or "2" or "3":
-            st.write('Burran Hot and Dry')
+          #  st.write('Burran Hot and Dry')
         #elif month == "4" or "5" or "6":
-            st.write("Marrai'gang Wet Becoming Cool")
+           # st.write("Marrai'gang Wet Becoming Cool")
         
     #with col2:
         #st.image('Seasons.JPG')
