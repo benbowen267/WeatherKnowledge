@@ -134,7 +134,7 @@ def app():
      
     Forecastdata = WeatherForecasting()
     st.write(Forecastdata)
-    weathercond= Forecastdata [['Weather Conditions']]
+    #weathercond= Forecastdata [['Weather Conditions']]
     weathercond = weathercond[1:2]
     #weathercond.columns= ["Conditions Today in Gabba"]
     st.write("Today we are looking at Wujal Wujal forecast through the lens of the ?????????? seasons")
