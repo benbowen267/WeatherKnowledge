@@ -122,11 +122,11 @@ def app():
     def WeatherForecasting():
         content = pd.read_html('https://www.weatherzone.com.au/qld/north-coast-and-tableland/wujal-wujal', header=0)
         DF= content[0]
-        DF.pop("Weather")
-        DF.pop("Wind")
-        DF.columns = ["Time of Day", "Weather Conditions", "Temperature", "Chance of Rain", "Cloud Cover", "Wind Direction & Speed", "Dew Point", "Humidity"]
-        DF= DF.set_index('Time of Day')
-        DF= DF.iloc[:9,:]
+        #DF.pop("Weather")
+       # DF.pop("Wind")
+        #DF.columns = ["Time of Day", "Weather Conditions", "Temperature", "Chance of Rain", "Cloud Cover", "Wind Direction & Speed", "Dew Point", "Humidity"]
+        #DF= DF.set_index('Time of Day')
+       # DF= DF.iloc[:9,:]
         return(DF)
         
      
